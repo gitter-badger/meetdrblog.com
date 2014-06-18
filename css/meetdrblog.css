@@ -50,3 +50,9 @@ input.form-control {
 .navbar > .container-fluid .navbar-brand {
   margin-left: 40px;
 }
+@media (max-width: 991px) {
+  .jumbotron {
+    background-image: linear-gradient(to bottom, #96d7ea, #96d7ea 50%, rgba(0, 0, 0, 0.05) 5%);
+    background-color: #96D7EA;
+  }
+}
